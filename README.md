@@ -1,1 +1,2 @@
-# requirement-analysis
+# Requirement Analysis in Software Development.
+Requirement analysis is a crucial phase in the software development lifecycle where the needs and expectations of stakeholders are gathered, analyzed, and documented. This process lays the foundation for building a system that meets user goals and business objectives. By clearly defining functional and non-functional requirements, teams can avoid misunderstandings, reduce rework, and ensure the final product delivers value. Effective requirement analysis improves planning, guides design decisions, and contributes to the overall success of the software project.
